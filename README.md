@@ -8,7 +8,7 @@ Passionate 18-year-old aspiring cybersecurity professional, currently pursuing C
 
 * 🌍  I'm based in Albania
 * ✉️  You can contact me at [schleepify@gmail.com](mailto:schleepify@gmail.com)
-* 🧠  I'm learning Cybersecurity at Cico Networking Academy
+* 🧠  I'm learning Cybersecurity at Cisco Networking Academy
 * ⚡  I love playing the guitar and make music on the side
 
 <a href="https://www.github.com/schleepyfr" target="_blank" rel="noreferrer"><img
