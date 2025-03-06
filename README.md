@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 junior cybersecurity
 --------------------
 
-Passionate 18-year-old aspiring cybersecurity professional, currently pursuing Cisco certifications to build a strong foundation in network security and ethical hacking. Enthusiastic about exploring innovative solutions to secure systems and eager to contribute to the tech world. Outside of cybersecurity, I’m a dedicated guitarist, blending technical precision with creativity in both music and technology.
+Passionate 19-year-old aspiring cybersecurity professional, currently pursuing Sec+, Network+ certifications to build a strong foundation in network security and cybersecurity. Enthusiastic about exploring innovative solutions to secure systems and eager to contribute to the tech world. Outside of cybersecurity, I’m a dedicated guitarist, blending technical precision with creativity in both music and technology.
 
 * 🌍  I'm based in Albania
 * ✉️  You can contact me at [schleepify@gmail.com](mailto:schleepify@gmail.com)
