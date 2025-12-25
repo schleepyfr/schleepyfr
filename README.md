@@ -1,34 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2025 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-
-Previous
-buymeacoffee
-Buy Me a Coffee:
-yourname
-kofi
-Ko-fi:
-schleepyistg
-
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi 👋 My name is Ardison
 ========================
 
@@ -54,4 +23,3 @@ Learning C++ as well as 3D modelling in my free time! (https://sonny3d.carrd.co/
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/schleepyistg"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-ProfileMe.dev | Create an amazing GitHub profile in minutes
